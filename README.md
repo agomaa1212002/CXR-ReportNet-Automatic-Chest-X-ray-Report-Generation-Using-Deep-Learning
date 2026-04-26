@@ -65,9 +65,6 @@ Challenges include:
 - Resized to 224×224
 - Normalized pixel values
 
----
-
-# Model Architectures
 
 ---
 
